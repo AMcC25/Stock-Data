@@ -1,2 +1,2 @@
-# Stock-Data-Easy-
+# Stock-Data-
 Homework #2
